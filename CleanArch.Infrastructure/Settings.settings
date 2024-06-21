@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CleanArch.Infrastructure" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YourDatabaseName</Value>
+    </Setting>
+    <Setting Name="dbAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="dbUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YourUserName</Value>
+    </Setting>
+    <Setting Name="dbPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YourPassword</Value>
+    </Setting>
+    <Setting Name="DbType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Postgresql</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
